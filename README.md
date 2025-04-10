@@ -1,4 +1,7 @@
 # Applied Coursework for Data Structures in C
+- Class: CP264 @ Laurier
+- Professors: David Brown, Hongbing Fan
+
 
 ## Topics Include:
 <div>
@@ -17,3 +20,10 @@
     <li>Graphs</li>
   </ul>
 </div>
+
+# Disclaimer
+Educational Purposes Only ```Do Not Copy Content For Marks```
+ 
+
+
+

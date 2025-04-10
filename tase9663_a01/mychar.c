@@ -38,6 +38,7 @@ int mytype(char c) {
  * @return -  c's upper/lower case letter if c is a lower/upper case English letter.
  */
 char case_flip(char c) {
+
     if (c >= 'A' && c <= 'Z'){
         return c + ('a'- 'A');
     }
@@ -56,7 +57,6 @@ char case_flip(char c) {
  *           otherwise -1.
  */
 int digit_to_int(char c) {
-
     if (c >= '0' && c <= '9'){
         return c - '0';
     }

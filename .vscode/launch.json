@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/tony/Desktop/CP264-WORK",
-      "program": "/Users/tony/Desktop/CP264-WORK/build/Debug/outDebug"
+      "cwd": "/Users/tony/Desktop/CP264-WORK/practice/midterm/a1",
+      "program": "/Users/tony/Desktop/CP264-WORK/practice/midterm/a1/build/Debug/outDebug"
     }
   ]
 }
